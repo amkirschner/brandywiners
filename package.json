@@ -1,0 +1,19 @@
+{
+  "name": "brandywiners",
+  "version": "0.0.1",
+  "description": "Brandywiners Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amkirschner/brandywiners.git"
+  },
+  "author": "Aaron Kirschner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amkirschner/brandywiners/issues"
+  },
+  "homepage": "https://github.com/amkirschner/brandywiners#readme"
+}
